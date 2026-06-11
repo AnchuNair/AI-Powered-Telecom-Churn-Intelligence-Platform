@@ -36,7 +36,6 @@ Build an enterprise-style AI-powered telecom churn intelligence platform that:
 
 ### Anchu P Nair
 
-- M.Tech in Artificial Intelligence
 - Telecom Domain Professional
 - AI/ML & Data Engineering Enthusiast
 - Interested in Telecom Analytics, AIOps, and Intelligent Automation
