@@ -9,23 +9,6 @@ Build an enterprise-style AI-powered telecom churn intelligence platform that:
 •	correlates network KPIs with customer dissatisfaction
 •	showcases AI engineering + telecom domain expertise
 
-## Final Target Architecture
-Telecom Events / CSV / REST APIs
-                ↓
-          Apache NiFi
-                ↓
-              Kafka
-                ↓
-      Python ML Prediction Service
-                ↓
-        Churn Intelligence Engine
-                ↓
-       Explainable AI (SHAP/LIME)
-                ↓
-          Camunda Workflow
-                ↓
-     Retention Action / Dashboard
-________________________________________
 ## Technology Stack
 
 ### AI & Machine Learning
